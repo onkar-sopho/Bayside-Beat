@@ -1,3 +1,18 @@
+                           ###################
+                             THE-BAYSIDE-BEAT
+                           ###################
+                        
+**********************************************************
+Project completed by: ONKAR
+                      Second Generation, SophomoreS.in
+                      SID: 2078
+**********************************************************
+
+How to run the webiste:
+To run the website, type the following command in the terminal :
+      apache50 start ~/workspace/bayside
+
+
 Objectives:
 1. To learn HTML and CSS.
 2. Get acquinted with Adobe dreamweaver and learn the various shortcuts it offers
