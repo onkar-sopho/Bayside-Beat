@@ -8,7 +8,7 @@ Project completed by: ONKAR
                       SID: 2078
 **********************************************************
 
-How to run the webiste:
+How to run the website:
 To run the website, type the following command in the terminal :
       apache50 start ~/workspace/bayside
 
